@@ -1,4 +1,0 @@
-python
-streamlit
-numpy
-sklearn
